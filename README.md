@@ -1,4 +1,5 @@
 # BurgerCalaculator
+^ Yes its not a calculator its a calaculator
 A calculator for school
 Written in C# for .NET 4.7
 If you see any improvements I can make Ill hapily pull em
